@@ -8,5 +8,6 @@ For now I know:
 1. Javascript
 2. NodeJS
 3. Repl.it
+4. Git,Github, VScode and Website hosting on netlify
 
-And I learned Git,Github, VScode and Website hosting on netlify..
+And I learned HTML5 and CSS3 ..
